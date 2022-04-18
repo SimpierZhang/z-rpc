@@ -1,0 +1,2 @@
+zkProvider=com.zrpc.provider.ZkServiceProvider
+nacosProvider=com.zrpc.provider.NacosServiceProvider

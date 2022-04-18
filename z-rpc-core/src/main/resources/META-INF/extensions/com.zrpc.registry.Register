@@ -1,0 +1,2 @@
+zkRegister=com.zrpc.registry.ZkRegister
+nacosRegister=com.zrpc.registry.NacosRegister
