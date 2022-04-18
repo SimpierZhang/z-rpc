@@ -1,2 +1,3 @@
 # z-rpc
-Z-rpc is an RPC framework based on netty + kryo + zookeeper (Nacos), which can realize the remote service call function similar to Dubbo
+Z-rpc is an RPC framework based on netty + kryo + zookeeper (Nacos), which can realize the remote service call function similar to Dubbo. 
+It mainly includes: service registration / discovery module, network transmission module, spring annotation module, etc
